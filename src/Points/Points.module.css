@@ -1,0 +1,43 @@
+.statTitle {
+    width: 35%;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    margin-right: 5px;
+    text-align: left;
+    padding: 0 10px 0 10px;
+}
+
+.statRow {
+    display: inline-flex;
+    width: 380px;
+    margin-bottom: 5px;
+    height: 3vh;
+}
+
+.ul {
+    display: inline-grid;
+}
+.btn {
+    margin: 0 5px 0 5px;
+    width: 35px;
+    height: inherit;
+    font-size: larger;
+}
+
+.points {
+    width: 60px;
+    margin: 0;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    background-color: white;
+    text-align: center;
+}
+
+.mod {
+    width: 30px;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}

@@ -1,0 +1,14 @@
+.statRows {
+    display: inline-flex;
+    width: 380px;
+    margin: 15px 5px 0 0;
+    height: 31px
+}
+
+.ul {
+    display: inline-grid;
+}
+
+s.list {
+
+}

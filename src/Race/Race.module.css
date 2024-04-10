@@ -1,0 +1,17 @@
+.label {
+    margin-right: 5px;
+    border-color: black;
+    border-style: solid;
+    border-width: thin;
+}
+
+.select {
+    width: 300px;
+    text-align: left;
+    padding-left: 5px;
+}
+
+.race {
+    display: inline-flex;
+    height: 3vh;
+}
